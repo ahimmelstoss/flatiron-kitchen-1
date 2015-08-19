@@ -9,10 +9,6 @@ resources: 2
 
 # Flatiron Kitchen
 
-## Deliverable
-
-Fork this repository. Deliver your solution in master.
-
 ## Instructions
 
 Flatiron Kitchen started off as a bubble tea bar in the corner of
